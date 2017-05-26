@@ -1,3 +1,5 @@
+var _ = require('lodash');
+
 const sketch = (p) => {
   let gray = 0
 
